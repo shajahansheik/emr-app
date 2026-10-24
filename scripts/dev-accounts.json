@@ -1,0 +1,7 @@
+{
+  "_note": "Local test accounts created while testing on localhost. Delete data/ to reset.",
+  "admin":  { "username": "admin",   "password": "Adm-cf34001e3e94" },
+  "doctor": { "username": "drmeena", "password": "Doc-cf34001e3e94" },
+  "nurse":  { "username": "nurse1",  "password": "Nur-cf34001e3e94" },
+  "soloDoctor": { "username": "drsolo", "password": "Solo-cf34001e3e94" }
+}
